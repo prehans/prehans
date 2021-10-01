@@ -9,17 +9,20 @@
 
 - 🔭 I’m currently working on [my portfolio website](itsprehans.me)
 
-- 📝 I regularly write articles on [tufcoding.blogspot.com](tufcoding.blogspot.com)
+- 🌱 I’m currently learning **Web Development**
+
+- 📝 I regularly write articles on [https://tufcoding.blogspot.com/](https://tufcoding.blogspot.com/)
 
 - 📫 How to reach me **prehansgupta@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/prehansg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="prehansg" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/www.linkedin.com/in/prehansgupta2024" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/prehansgupta2024" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/search?q=prehans+gupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/search?q=prehans+gupta" height="30" width="40" /></a>
-<a href="https://fb.com/facebook.com/prehansgupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook.com/prehansgupta" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/channel/uckmpdew3q4r6h5cdbs3tjrg/featured" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uckmpdew3q4r6h5cdbs3tjrg/featured" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/prehans gupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prehans gupta" height="30" width="40" /></a>
+<a href="https://kaggle.com/prehansgupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="prehansgupta" height="30" width="40" /></a>
+<a href="https://fb.com/prehansgupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="prehansgupta" height="30" width="40" /></a>
+<a href="https://instagram.com/prehansgupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="prehansgupta" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/prehans gupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="prehans gupta" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/prehans_2000" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="prehans_2000" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/prehansgupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="prehansgupta" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/prehansgupta" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="prehansgupta" height="30" width="40" /></a>
