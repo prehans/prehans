@@ -5,7 +5,7 @@
 
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prehans&theme=onedark" alt="prehans" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prehans&theme=onedark" alt="prehans" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/prehansg" target="blank"><img src="https://img.shields.io/twitter/follow/prehansg?logo=twitter&style=for-the-badge" alt="prehansg" /></a> </p>
 
