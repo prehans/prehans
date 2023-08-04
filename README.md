@@ -9,11 +9,11 @@
 
 <p align="left"> <a href="https://twitter.com/prehansg" target="blank"><img src="https://img.shields.io/twitter/follow/prehansg?logo=twitter&style=for-the-badge" alt="prehansg" /></a> </p>
 
-- 🔭 I’m currently working on [my portfolio website](itsprehans.me)
+- 🔭 I’m currently working on [my portfolio website](https://portfolio-prehans-wiba.onrender.com/)
 
 - 🌱 I’m currently learning **Web Development**
 
-- 📝 I regularly write articles on [https://tufcoding.blogspot.com/](https://tufcoding.blogspot.com/)
+- 📝 I regularly write articles on [https://dailycodingstreak.blogspot.com/](https://dailycodingstreak.blogspot.com/)
 
 - 📫 How to reach me **prehansgupta@gmail.com**
 
